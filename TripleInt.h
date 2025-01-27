@@ -12,9 +12,9 @@ int main () {
     std::cout <<"Please enter an integer: ";
     std::cin >> userInput;
 
-    int doubleInput = userInput * 3;
+    int tripleInput = userInput * 3;
 
-    std::cout << "the tripled value is: " << doubleInput << std::endl;
+    std::cout << "the tripled value is: " << tripleInput << std::endl;
     return 0;
 }
 
